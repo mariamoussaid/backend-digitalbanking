@@ -1,17 +1,3 @@
-# E-Banking Web Application
-
-## Description
-Ce projet a pour objectif la création d'une application web de gestion bancaire intitulée "E-banking web application". Cette application est conçue pour faciliter la gestion des comptes bancaires et des opérations associées, en mettant l'accent sur la sécurité et l'efficacité.
-
-## Structure du Projet
-
-### Entités Principales
-Le projet se base sur cinq entités principales :
-1. **BankAccount** : Représente un compte bancaire générique.
-2. **CurrentAccount** : Spécifie un compte courant avec des caractéristiques spécifiques.
-3. **SavingAccount** : Spécifie un compte d'épargne avec des caractéristiques spécifiques.
-4. **Customer** : Représente les clients de la banque.
-5. **Operation** : Représente les différentes opérations bancaires effectuées (dépôts, retraits, transferts, etc.).
 
 ### Partie Back-End
 
@@ -29,11 +15,11 @@ Pour le back-end, nous avons choisi d'utiliser Spring Boot, un framework puissan
 Pour le front-end, nous avons choisi Angular, un framework populaire pour le développement d'applications web interactives et dynamiques. Angular nous permet de créer une interface utilisateur réactive et intuitive, facilitant ainsi l'interaction avec l'application.
 
 Voici quelques captures d'écran illustrant les différentes vues de notre projet :
-- ![img 1](/img/login.PNG) Vue de la page de connexion sécurisée.
-- ![img 2](/img/clients.PNG)  Tableau de bord montrant les clients.
-- ![img 3](/img/ajout.PNG)  Interface d'ajout des clients.
-- ![img 4](/img/Supprimer.PNG)  Supprimer un client.
-- ![img 5](/img/Search.PNG)  Operation de recherche d'un compte.
+- ![img 1](/img/login.PNG) 
+- ![img 2](/img/clients.PNG)  
+- ![img 3](/img/ajout.PNG) 
+- ![img 4](/img/Supprimer.PNG)  
+- ![img 5](/img/Search.PNG)  
 
 
 ## Installation
